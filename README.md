@@ -1,6 +1,6 @@
 Three Chinese people asked me to write their assignments for them, but their descriptions were not clear and they deducted 300RMB from their paychecks, so I opened the source code in the hope that it would be useful to the community.
-有三个中国人找我代写作业，但是描述不清晰还扣除了300人民币的薪水，于是我开源代码，希望对社区有用
 
+有三个中国人找我代写作业，但是描述不清晰还扣除了300人民币的薪水，于是我开源代码，希望对社区有用
 
 This project consists of two main Python scripts: rawUDPClient.py and rawUDPServer.py. These scripts implement a file transfer protocol over raw UDP sockets.
 
